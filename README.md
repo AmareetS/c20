@@ -1,2 +1,2 @@
-# c20
-collision between 2 rectangles
+# p5.play-boilerplate
+Boiler plate for p5.play
